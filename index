@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>LNSEVEN Cost/Benefit of fiverr</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            td{
+                width: fit-content;
+                background: lightgray
+            }
+        </style>
+    </head>
+    <body>
+        <h3>LNSEVEN Cost/Benefit of fiverr</h3>
+        
+<p>I started by looking at it from the perspective of tech company using an online service like Bluehost and looking at it from the point of view of hiring. 
+    WEB</p>
+<table>
+    <tr>
+        <td colspan="2" style="background: lightblue">Costs</td>
+        
+    </tr>
+    <tr>
+        <td colspan="2" style="background: lightcoral">Web</td>
+    </tr>
+    <tr >
+        <td style="background-color: lightgreen">Asset/Factor</td><td style="background-color: lightgreen">Cost per year</td><td style="background-color: lightgreen">Number</td><td style="background-color: lightgreen">Total Fee</td>
+    </tr>
+    <tr>
+        <td>Server</td><td>$720/year </td><td>1 asset(e.g Bluehost)</td><td>$720</td>
+    </tr>
+    <tr>
+        <td>Front end</td><td>$142000</td><td>10 Developers</td><td>$1420000</td>
+    </tr>
+    <tr>
+        <td>Back end </td><td>$142000</td><td>10 Developers</td><td>$1420000</td>
+    </tr>
+    <tr>
+        <td>Marketing</td><td>$22000</td><td>10 Developers</td><td>$220000</td>
+    </tr>
+    <tr>
+        <td>SEO</td><td>$10000</td><td>1 buy</td><td>$10000</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="background-color: azure">Total</td><td>$3070720</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="background: lightcoral">App</td>
+    </tr>
+    <tr>
+        <td>Android Developer</td><td>$150000</td><td>10 Developers</td><td>$1500000</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="background-color: azure">Total</td><td>$1500000</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="background-color: brown; font-weight: bolder">Total Costs</td><td>$4570720</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="background: aquamarine">Say there are 1000000 sellers/year on fiverr, and each makes $100 per sale, fiverr makes 1/5*100 = $20 on each seller which means</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="background: lightblue">Benefits</td>
+        
+    </tr>
+    <tr >
+        <td style="background-color: lightgreen">Rewards</td><td style="background-color: lightgreen">Cost per year</td><td style="background-color: lightgreen">Number</td><td style="background-color: lightgreen">Total Fee</td>
+    </tr>
+    <tr>
+        <td>Subscription</td><td colspan="2">$0</td><td>$0</td>
+    </tr>
+    <tr>
+        <td>Fee paid on each sale</td><td>$20</td><td>1000000</td><td>$20000000</td>
+    </tr>
+    <tr>
+        <td colspan="3">Ads</td><td>$120000</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="background-color: brown; font-weight: bolder">Total Benefits</td><td>$20120000</td>
+    </tr>
+    </table>
+<div style="background: black; color:wheat">
+    Payback time is equal to 4570720/20120000 = 0.23 of a year which is 82 days or 3 months approx.
+</div>
+<h3>Online Calculation</h3>
+<p>I also did an online calculation for high standard websites like fiverr. Here's an idea what it 
+    could cost to build one looking at it from a general point of view. It would mean just calling some contracts
+for a build</p>
+<a href="https://drive.google.com/open?id=1qnWnR0cM03lhc8Xm-nCRuEVARJM5NZUx">Calculated Pix</a>
+
+<p>Based on this calculation cost-benefit ratio or payback period is 110500/20120000=.005 which is two days.
+Both results indicate that if we build the website and are able to acquire sellers quickly our returns will be huge and
+come quickly.</p>
+
+    </body>
+</html>
